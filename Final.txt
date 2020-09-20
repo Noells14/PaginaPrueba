@@ -1,0 +1,5 @@
+Este es el primer archivo guardado en Git
+
+Aprendere el funcionamiento del mismo
+
+Exito!
